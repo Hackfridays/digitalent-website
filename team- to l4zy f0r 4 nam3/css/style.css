@@ -24,7 +24,7 @@ margin-top: 0px;
 margin-bottom: 0;
 padding: 20px 0
 }
-h2 {height: 100%; width: 100%; color: #E8020D;padding: 20px 0;}
+h2 {height: 25px; width: 100%; color: #E8020D;padding: 20px 0;}
 p, a{
 font-family: 'VerelaRound';
 }
@@ -105,7 +105,7 @@ font-family: 'VerelaRound';
 font-size:24px;
 margin:0;
 padding:0 0 40px 0;
-color:red
+color:blue
 }
 #flex-head .slides > li{
 position:relative;
