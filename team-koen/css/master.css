@@ -1,1 +1,7 @@
-h1 { text-transform: capitalize; }
+h1 {color: blue; text-transform: capitalize; font-size: 200px; font-weight: normal; }
+
+h1.kitten { color: green; }
+
+#cat { color: yellow; }
+
+h1 strong { color: purple; }
